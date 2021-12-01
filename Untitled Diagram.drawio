@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T11:54:25.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lMs8bSzwzNnixX89oXZQ" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T12:24:34.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-0JdblebJ19XtRXdPVaV" version="15.8.8" type="github">
   <diagram id="V7je1O-hMXL9oF9jtUTb" name="Page-1">
     <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="330" y="40" width="470" height="380" as="geometry" />
         </mxCell>
         <mxCell id="sKMQY5zvEQgRqJb_hfwc-2" value="Availability zone" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="120" width="380" height="160" as="geometry" />
+          <mxGeometry x="414" y="120" width="380" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sKMQY5zvEQgRqJb_hfwc-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="180" width="50" height="61.5" as="geometry" />
