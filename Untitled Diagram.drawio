@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T11:18:11.759Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="EHhJ7POBaVw1HUacFA00" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T11:54:25.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lMs8bSzwzNnixX89oXZQ" version="15.8.8" type="github">
   <diagram id="V7je1O-hMXL9oF9jtUTb" name="Page-1">
     <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="sKMQY5zvEQgRqJb_hfwc-84" value="On Prem 192.168.1.0/24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-320" y="40" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sKMQY5zvEQgRqJb_hfwc-85" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="sKMQY5zvEQgRqJb_hfwc-85" value="Virtual Private&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="198" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="sKMQY5zvEQgRqJb_hfwc-86" value="VPN Connection" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_connection;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
